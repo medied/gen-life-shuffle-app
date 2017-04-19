@@ -1,0 +1,10 @@
+/* CSS declarations go here */
+img {
+	width: 100px;
+	height: 100px;
+}
+
+button {
+	display: block;
+	padding: 10px;	
+}
